@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
+        "dockerbuild",
+        "Dockerized",
+        "flasktest",
+        "pytest",
         "venv"
     ]
 }
